@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sai Akhil Chopparapu @akhil6297
 - 👀 I’m interested in People, Programming, Travel.
-- 🌱 I’m currently Pursuing Masters in CS at University of Missouri, Columbia
+- 🌱 I graduated in Masters in Computer Science from University of Missouri, Columbia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on mail? haha here it is saiakhil009@gmail.com
 
